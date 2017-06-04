@@ -1,3 +1,110 @@
-h1 {
-  color: #3EA398;
+@charset "utf-8";
+@import "base";
+
+header {
+  div.menu {
+    height: 80px;
+    margin: 30px 50px 0 0;
+    a, span {
+      float: right;
+      margin-right: 25px
+    }
+  }
+}
+
+div.main {
+  margin: 0 150px;
+  width: 1020px;
+  margin-left: auto;
+  margin-right: auto;
+  div.app-intro {
+    .app-name {
+      height: 90px;
+      background: url("../../images/app-name.png") center no-repeat;
+      background-size: 190px;
+    }
+    .app-logo {
+      margin-top: 30px;
+      height: 200px;
+      background: url("../../images/app-logo.png") center no-repeat;
+      background-size: 180px;
+    }
+    span {
+      display: inline-block;
+      width: 100%;
+      text-align: center;
+      margin: 10px 0;
+      font-size:16px;
+      color: #a3a3a3;
+    }
+  }
+
+  div.download {
+    display: block;
+    margin: 25px 0;
+    text-align: center;
+    button {
+      margin: 0 15px;
+      border-radius:6px;
+      &.mac {
+        border-color: inherit;
+        border:2px solid #009688;
+      }
+      &.win {
+        color: #007d71;
+        background-color: #fff;
+        border:2px solid #3ea398;
+        &:hover { background-color: #e4e4e4}
+      }
+    }
+  }
+
+  div.app-discription {
+    font-size:18px;
+    color:#676666;
+    margin: 65px auto;
+    text-align: center;
+  }
+
+  div.app-gif {
+    display: block;
+    width: 90%;
+    margin: 0 auto;
+  }
+
+  div.app-feature {
+    margin: 65px auto 0;
+    display: block;
+    div.media {
+      margin-bottom: 70px;
+      img.media-object {
+        width: 30px;
+        margin-right: 20px;
+        &.bookmark {
+          width: 20px;
+        }
+      }
+      div.media-body {
+        width: 85%;
+        p {
+          word-wrap:break-word;
+        }
+      }
+    }
+  }
+}
+
+footer.footer {
+  background-image: url("../../images/footer-bg.png");
+  background-size: 100% 100%;
+  height: 180px;
+  width: 100%;
+  div.menu {
+    padding: 100px 0 0 20px;
+    color: #fff;
+  }
+  div.discription {
+    padding: 10px 0 0 20px;
+    color: #fff;
+  }
 }
