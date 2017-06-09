@@ -162,9 +162,14 @@ footer.footer {
   }
   footer.footer {
     margin-top: 30px;
-    div.menu { font-size: 16px; }
+    height: 130px;
+    div.menu {
+      padding: 60px 0 0 20px;
+      font-size: 16px;
+    }
     div.description {
       font-size: 14px;
+      line-height: 16px;
     }
   }
 }
