@@ -7,14 +7,12 @@ header {
     margin: 30px 50px 0 0;
     a, span {
       float: right;
-      margin-right: 25px
+      margin-right: 25px;
     }
   }
 }
 
 div.main {
-  margin: 0 150px;
-  width: 1020px;
   margin-left: auto;
   margin-right: auto;
   div.app-intro {
@@ -59,7 +57,7 @@ div.main {
     }
   }
 
-  div.app-discription {
+  div.app-description {
     font-size:18px;
     color:#676666;
     margin: 65px auto;
@@ -103,8 +101,86 @@ footer.footer {
     padding: 100px 0 0 20px;
     color: #fff;
   }
-  div.discription {
+  div.description {
     padding: 10px 0 0 20px;
     color: #fff;
+  }
+}
+
+@media (max-width: 767px) {
+  header {
+    div.menu {
+      height: 50px;
+      margin: 30px 10px 0 0;
+      a, span {
+        float: right;
+        margin-right: 15px;
+      }
+      font-size: 14px;
+    }
+  }
+  div.main {
+    padding: 0 20px;
+    width: 100%;
+    div.app-intro {
+      .app-name {
+        margin-top: 10px;
+        background-size: 150px;
+      }
+      .app-logo {
+        margin-top: 5px;
+        height: 150px;
+        background-size: 130px;
+      }
+    }
+    div.download {
+      button {
+        margin-top: 10px;
+        &.mac { margin-bottom: 10px;}
+        &.win { margin: 10px 0;}
+      }
+    }
+    div.app-description {
+      margin: 60px 20px;
+    }
+    div.app-feature {
+      div.media {
+        margin-bottom: 40px;
+        div.media-body {
+          width: 80%;
+        }
+      }
+    }
+  }
+  footer.footer {
+    margin-top: 30px;
+    div.menu { font-size: 16px; }
+    div.description {
+      font-size: 14px;
+    }
+  }
+}
+@media (min-width: 768px) and (max-width: 993px) {
+  div.main {
+    margin: 0 auto;
+    width: 760px;
+    div.app-feature {
+      div.media {
+        div.media-body {
+          width: 80%;
+        }
+      }
+    }
+  }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+  div.main {
+    margin: 0 auto;
+    width: 990px;
+  }
+}
+@media (min-width: 1200px) {
+  div.main {
+    width: 1020px;
   }
 }
