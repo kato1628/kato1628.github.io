@@ -56,6 +56,10 @@ Some jurisdictions do not allow the exclusion of certain warranties or the exclu
 
 ## Governing Law
 
+These Terms shall be governed and construed in accordance with the laws of Japan, without regard to its conflict of law provisions.
+
+Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights. If any provision of these Terms is held to be invalid or unenforceable by a court, the remaining provisions of these Terms will remain in effect. These Terms constitute the entire agreement between us regarding our Service, and supersede and replace any prior agreements we might have had between us regarding the Service.
+
 ## Changes
 
 # Privacy Polic
