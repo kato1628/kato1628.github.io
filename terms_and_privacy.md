@@ -52,6 +52,8 @@ Sudachi and its licensors do not warrant that a) the Service will function unint
 
 ## Exclusions
 
+Some jurisdictions do not allow the exclusion of certain warranties or the exclusion or limitation of liability for consequential or incidental damages, so the limitations above may not apply to you.
+
 ## Governing Law
 
 ## Changes
