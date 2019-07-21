@@ -62,6 +62,8 @@ Our failure to enforce any right or provision of these Terms will not be conside
 
 ## Changes
 
+We reserve the right, at our sole discretion, to modify or replace these Terms at any time. By continuing to access or use our Service after any revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, you are no longer authorized to use the Service.
+
 # Privacy Polic
 
 ## Information Collection And Use
