@@ -94,6 +94,8 @@ If you do not accept cookies, you may not be able to use some features of our Se
 
 ## Compliance With Laws
 
+We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service.
+
 ## Security
 
 ## International Transfer
