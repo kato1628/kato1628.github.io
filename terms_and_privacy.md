@@ -86,6 +86,12 @@ Other analytics tools we use include Mixpanel for in-app product analytics, Goog
 
 ## Cookies
 
+Cookies are files with a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and transferred to your device. We use cookies to collect information in order to improve our services for you.
+
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. The Help feature on most browsers provide information on how to accept cookies, disable cookies or to notify you when receiving a new cookie.
+
+If you do not accept cookies, you may not be able to use some features of our Service and we recommend that you leave them turned on.
+
 ## Compliance With Laws
 
 ## Security
