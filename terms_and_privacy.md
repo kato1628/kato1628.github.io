@@ -98,6 +98,10 @@ We will disclose your Personal Information where required to do so by law or sub
 
 ## Security
 
+The security of your Personal Information is important to us, and we strive to implement and maintain reasonable, commercially acceptable security procedures and practices appropriate to the nature of the information we store, in order to protect it from unauthorized access, destruction, use, modification, or disclosure.
+
+However, please be aware that no method of transmission over the internet, or method of electronic storage is 100% secure and we are unable to guarantee the absolute security of the Personal Information we have collected from you.
+
 ## International Transfer
 
 ## Changes To This Privacy Policy
