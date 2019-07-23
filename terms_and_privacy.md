@@ -78,6 +78,12 @@ We use your Personal Information for providing and improving the Service. By usi
 
 ## Information Collection And Use
 
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, name, other information ("Personal Information").
+
+We collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, improving our services.
+
+Other analytics tools we use include Mixpanel for in-app product analytics, Google Analytics for collecting and analyzing data about visitors to our websites.
+
 ## Cookies
 
 ## Compliance With Laws
