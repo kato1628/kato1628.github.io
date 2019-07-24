@@ -68,7 +68,7 @@ We reserve the right, at our sole discretion, to modify or replace these Terms a
 
 Last updated: August 1, 2019
 
-Hiroshi Kato, Kanagawa, Japan ("Sudachi", "us", "we", or "our") operates the sudachi.io website and the Sudachi desktop application (the "Service").
+Hiroshi Kato, Kanagawa, Japan ("Sudachi", "us", "we", or "our") operates the [sudachi.io](http://sudachi.io) website and the Sudachi desktop application (the "Service").
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
