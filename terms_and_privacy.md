@@ -102,6 +102,8 @@ The security of your Personal Information is important to us, and we strive to i
 
 However, please be aware that no method of transmission over the internet, or method of electronic storage is 100% secure and we are unable to guarantee the absolute security of the Personal Information we have collected from you.
 
+Sudachi uses [Firebase](https://firebase.google.com/) and its services and stores account data, text data, data about website use to firestore that is a service of Firebase. Our service uses HTTPS encryption (also referred to as SSL or TLS connection) encryption to protect your data in transit to firestore.
+
 ## International Transfer
 
 Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction. If you are located outside United States and choose to provide information to us, please note that we transfer the information, including Personal Information, to United States and store it there.
@@ -111,10 +113,6 @@ Your consent to this Privacy Policy followed by your submission of such informat
 ## Changes To This Privacy Policy
 
 This Privacy Policy is effective as of August 1, 2019 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
-
-# Security Practices
-
-xxx
 
 # GDPR
 
