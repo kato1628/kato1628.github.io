@@ -116,6 +116,6 @@ This Privacy Policy is effective as of August 1, 2019 and will remain in effect 
 
 # GDPR
 
-xxx
+Sudachi respects privacy rights under Regulation (EU) 2016/679, the European Union's General Data Protection Regulation (GDPR). GDPR does not apply to everyone worldwide. But Sudachi's policy is to do its best to offer all users the same privacy information, control, and protections, whether GDPR applies to them or not. We are in the process of updating this policy to do that.
 
 ## Contact us if you have any questions:
