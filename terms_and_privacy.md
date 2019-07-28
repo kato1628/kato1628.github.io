@@ -120,5 +120,5 @@ Sudachi respects privacy rights under Regulation (EU) 2016/679, the European Uni
 
 ## Contact us if you have any questions:
 
-Hiroshi Kato
-[contact@sudachi.io](mailto:contact@sudachi.io)
+- Hiroshi Kato
+- [contact@sudachi.io](mailto:contact@sudachi.io)
