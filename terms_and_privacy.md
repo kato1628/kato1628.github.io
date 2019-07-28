@@ -102,7 +102,7 @@ The security of your Personal Information is important to us, and we strive to i
 
 However, please be aware that no method of transmission over the internet, or method of electronic storage is 100% secure and we are unable to guarantee the absolute security of the Personal Information we have collected from you.
 
-Sudachi uses [Firebase](https://firebase.google.com/) and its services and stores account data, text data, data about website use to firestore that is a service of Firebase. Our service uses HTTPS encryption (also referred to as SSL or TLS connection) to protect your data in transit to firestore.
+Sudachi uses [Firebase](https://firebase.google.com/) and its services and stores account data, text data, data about website use to [Cloud Firestore](https://firebase.google.com/docs/firestore?hl=en) that is a service of Firebase. Our service uses HTTPS encryption (also referred to as SSL or TLS connection) to protect your data in transit to Cloud Firestore.
 
 ## International Transfer
 
@@ -116,7 +116,7 @@ This Privacy Policy is effective as of August 1, 2019 and will remain in effect 
 
 # GDPR
 
-Sudachi respects privacy rights under Regulation (EU) 2016/679, the European Union's General Data Protection Regulation (GDPR). GDPR does not apply to everyone worldwide. But Sudachi's policy is to do its best to offer all users the same privacy information, control, and protections, whether GDPR applies to them or not. We are in the process of updating this policy to do that.
+Sudachi respects privacy rights under [Regulation (EU) 2016/679](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.119.01.0001.01.ENG), the European Union's General Data Protection Regulation (GDPR). GDPR does not apply to everyone worldwide. But Sudachi's policy is to do its best to offer all users the same privacy information, control, and protections, whether GDPR applies to them or not. We are in the process of updating this policy to do that.
 
 ## Contact us if you have any questions:
 
