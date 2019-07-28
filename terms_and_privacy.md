@@ -82,7 +82,7 @@ While using our Service, we may ask you to provide us with certain personally id
 
 We collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, improving our services.
 
-Other analytics tools we use include Mixpanel for in-app product analytics, Google Analytics for collecting and analyzing data about visitors to our websites.
+Other analytics tools we use include [Mixpanel](https://mixpanel.com/) for in-app product analytics, Google Analytics for collecting and analyzing data about visitors to our websites.
 
 ## Cookies
 
