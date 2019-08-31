@@ -34,6 +34,8 @@ The Service and its original content (excluding Content provided by users), feat
 
 We may terminate or suspend your account and bar access to the Service immediately, without prior notice or liability, under our sole discretion, for any reason whatsoever and without limitation, including but not limited to a breach of the Terms.
 
+If you wish to terminate your account, we provide a tool do so. You may request to delete your own account at any time from within our desktop application. Upon requesting to delete your account, all Content will immediately be deleted.
+
 All provisions of the Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.
 
 ## Indemnification
