@@ -1,6 +1,6 @@
-Last updated: August 1, 2019
-
 # Terms and Conditions
+
+Last updated: August 31, 2019
 
 Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the [sudachi.io](http://sudachi.io) website and the Sudachi desktop application (together, or individually, the "Service") operated by Hiroshi Kato, Kanagawa, Japan. ("Sudachi", "us", "we", or "our").
 
@@ -66,7 +66,7 @@ We reserve the right, at our sole discretion, to modify or replace these Terms a
 
 # Privacy Policy
 
-Last updated: August 1, 2019
+Last updated: August 31, 2019
 
 Hiroshi Kato, Kanagawa, Japan ("Sudachi", "us", "we", or "our") operates the [sudachi.io](http://sudachi.io) website and the Sudachi desktop application (the "Service").
 
